@@ -138,3 +138,4 @@ These are intentional omissions, not missing features.
 ## License
 
 MIT — use freely, adapt freely, attribute appreciated.
+# early-stage-design-comparator
