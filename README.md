@@ -279,4 +279,3 @@ MIT — use freely, adapt freely, attribution appreciated.
 
 ---
 
-*This project was built as part of a first-round assignment for an AI Practice Consultant role. The brief asked for a working prototype of an interaction pattern — not a simulation engine. The goal was to demonstrate that AI and expert judgment can be structured to work together in a way that is auditable, challengeable, and honest about what the AI does and does not know.*
