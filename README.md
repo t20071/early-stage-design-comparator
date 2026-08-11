@@ -3,7 +3,10 @@
 
 > *Built as a working prototype for a first-round assignment — "AI Practice Consultant" role at an architecture/engineering firm.*
 
+**GitHub Repository:** [https://github.com/t20071/early-stage-design-comparator](https://github.com/t20071/early-stage-design-comparator)
+
 ---
+
 
 ## What Is This Project?
 
