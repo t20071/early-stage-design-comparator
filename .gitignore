@@ -1,0 +1,23 @@
+# Environment
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Conda / virtual environments
+env/
+venv/
+ENV/
+moser_ai/
+
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+README.pdf
